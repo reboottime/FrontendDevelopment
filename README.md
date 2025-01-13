@@ -26,4 +26,4 @@
 
 ## 2025
 
-- [ramp up with Azure Active Directory B2C](https://github.com/reboottime/WebDevelopment/issues/205)
+- [Ramp Up with Azure AD B2C](https://github.com/reboottime/WebDevelopment/issues/205)
